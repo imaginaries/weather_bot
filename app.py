@@ -74,7 +74,7 @@ def parse_user_message(user_text):
     '''
     Send the message to API AI which invokes an intent
     and sends the response accordingly
-    The bot response is appened with weaher data fetched from
+    The bot response is appened with weather data fetched from
     open weather map client
     '''
     
